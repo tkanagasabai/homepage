@@ -125,7 +125,6 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: black;
-    background-image: url('../img/background.png');
     background-size: inherit;
     background-repeat: repeat;
     background-color: #1B94FB;
