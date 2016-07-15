@@ -130,6 +130,9 @@ header {
     background-color: #1B94FB;
 
 }
+.intro-text-homepage {
+	padding: 15px;
+}
 .biography {
     color: #fff;
     background-size: inherit;
@@ -583,8 +586,8 @@ footer .footer-below {
     color: #fff;
     background-size: inherit;
     background-repeat: repeat;
-    background-color: #0089FF;
-    background-image: url('../img/snow.jpg');
+    background-color: #005998;    
+    background-image: url('../img/fresh-snow.png');
 	border-top: 8px solid #00487b;
 }
 .navbar-default .navbar-toggle {
