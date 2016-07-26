@@ -56,7 +56,23 @@ p.introduction {
 p.small {
     font-size: 16px;
 }
-
+@media (max-width: 768px) {
+	.navbar {
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    background-color: #4D98E7;
+	}
+}
+@media (min-width: 769px) {
+	.navbar {
+		text-transform: uppercase;
+		font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-weight: 700;
+		background-image: url('../img/thiru/navbar2.png');
+		background-color: #4D98E7;
+	}
+}
 a,
 a:focus,
 a:active,
@@ -211,13 +227,6 @@ header .intro-text .skills {
     }
 }
 
-.navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    background-image: url('../img/thiru/navbar2.png');
-    background-color: #4D98E7;
-}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #ffffff;
     background-color: #006CB5;
@@ -247,7 +256,7 @@ section {
 
 section h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 section.success {
@@ -654,7 +663,7 @@ footer .footer-below {
 }
 .outline-small {
     margin-top: 0px;
-    border: dotted 2px #fff;
+    border: dotted 2px #3498db;
     font-size: 15px;
 }
 .outline-left {
