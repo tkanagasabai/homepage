@@ -1,12 +1,7 @@
-# README #
+## Air Raya Group is a leading business expert specialize in providing web design, graphic design services and web maintenance to clients around the world.
 
-This is a repository of thirumagalkanagasabai.com
+* Web Design (http://www.airrayagroup.com/)
 
-### designed by ###
+## Copyright 
 
-*  [AIR RAYA GROUP](http://webdesign.airrayagroup.com)
-
-
-### Copyrights ###
-
-* Copyright © 2015 thirumagalkanagasabai |All rights reserved.
+Copyright 2016 AIR RAYA GROUP 
