@@ -9,4 +9,4 @@ This is a repository of thirumagalkanagasabai.com
 
 ### Copyrights ###
 
-* Copyright © 2015 thirumagalkanagasabai |All rights reserved.
+* Copyright © 2015 thirumagalkanagasabai | All rights reserved.
